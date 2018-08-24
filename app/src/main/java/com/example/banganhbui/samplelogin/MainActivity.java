@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
     private KeyStore keyStore;
     // Variable used for storing the key in the Android Keystore container
-    private static final String KEY_NAME = "androidHive";
+    private static final String KEY_NAME = "sample";
     private Cipher cipher;
 
     @Override
