@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="brand_default">#ECEEEF</color>
+    <color name="brand_primary">#FFBF00</color>
+    <color name="brand_secondary">#000000</color>
+    <color name="brand_success">#00CC8F</color>
+    <color name="brand_info">#1E82F7</color>
+    <color name="brand_warning">#F7941E</color>
+    <color name="brand_danger">#F7271E</color>
+    <color name="brand_insurance">#FCAF17</color>
+    <color name="brand_takaful">#49C0B6</color>
+    <color name="footer_transparent">#5f000000</color>
+
+    <color name="calendar_today">#589FD7</color>
+    <color name="calendar_greyed_out">#c7c7c7</color>
+
+    <color name="calendar_summer">#44eebd82</color>
+    <color name="calendar_fall">#44d8d27e</color>
+    <color name="calendar_winter">#44a1c1da</color>
+    <color name="calendar_spring">#448da64b</color>
+
+    <color name="transprent_color">#00000000</color>
+    <color name="black_color">#000000</color>
+    <color name="transparent_confirm">#66FFFFFF</color>
+    <color name="transparent_confirm_ok">#8082E2F2</color>
+    <color name="transparent_confirm_cancel">#80DDDED9</color>
+    <color name="transparent_confirm_text_cancel">#6D6D6B</color>
+    <color name="gray_color">#c0c0c0</color>
+    <color name="green_color">#4FDEFF</color>
+    <color name="white_color">#ffffff</color>
+    <color name="calendar_grey_header">#F8F8F8</color>
+    <color name="calendar_header_line_bottom">#DFDFDF</color>
+    <color name="calendar_current_month">#5BA0D7</color>
+    <color name="list_video_bg">#6ca6ba</color>
+    <color name="partner_primary">#FFBF00</color>
+
+</resources>

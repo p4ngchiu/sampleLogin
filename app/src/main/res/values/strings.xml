@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Etiqa Partner</string>
+
+    <!-- Common string -->
+    <string name="footer_appointment">My Appointment</string>
+    <string name="footer_profile">Profile</string>
+    <string name="footer_review">Review</string>
+    <string name="common_send">SEND</string>
+    <string name="common_cancel">CANCEL</string>
+
+    <string name="title_review">Review</string>
+    <string name="title_my_appointment">My Appointment</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_service_price">Service and Price Setup</string>
+    <string name="view_all_app">View all Appointment</string>
+    <string name="service_name">Enter service provide</string>
+    <string name="service_price">0</string>
+
+    <!-- Dialog message -->
+    <string name="dialog_confirm_logout">Do you want to log out?</string>
+
+    <string name="dialog_confirm_appointment_success_title">Sent Successful</string>
+    <string name="dialog_confirm_appointment_success_message">The confirmation Appointment had been successfully send to your customer.</string>
+    <string name="dialog_reject_appointment_success_message">Your Rejection had been successfully send to your customer.</string>
+    <string name="dialog_appointment_confirm_follow_up_title">Follow Up Appointment</string>
+    <string name="dialog_appointment_confirm_follow_up_content">Do you need follow-up appointment with your customer</string>
+    <string name="dialog_appointment_upload_description_message">Upload file description successfully.</string>
+
+    <!-- Error message -->
+    <string name="error_input_mobile">Please input correct format mobile number</string>
+    <string name="error_input_tac">Please input TAC Code</string>
+
+    <string name="btn_login">login</string>
+    <string name="btn_change_language">English</string>
+    <string name="message_slogan_login">Login to manage your partner account</string>
+    <string name="phone_number_login_hint">Mobile Number</string>
+    <string name="tac_login_hint">TAC Code</string>
+    <string name="message_term_login">Term and Conditions</string>
+    <string name="btn_forgot_password_login">Forgot Password?</string>
+    <string name="btn_firt_time_login">First Time Login?</string>
+    <string name="message_for_got_password">Forgot Password?</string>
+    <string name="change_languages">Change Language</string>
+    <string name="english">English</string>
+    <string name="bahasa">Bahasa Melayu</string>
+    <string name="message_first_time_login">First Time Login?</string>
+    <string name="message_slogan_forgot_password">No worries! We\'ve been there. Enter your mobile number\n and we\'ll send you a TAC code</string>
+    <string name="message_slogan_first_time_login">Enter your mobile number to receive TAC via SMS. Then\nuse it to set up your account!</string>
+    <string name="message_slogan_confirm_tac">ETIQA has implemented the One Time TAC. You would receiver the TAC via your registered mobile number(+6016 0000 XXXX). The TAC will only be valid for 5 minutes.\n\nShould you didn't receive the TAC, please kindly contact our Client Services at 0000 0000</string>
+    <string name="btn_back">BACK</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="btn_send_me_tac">SEND ME TAC</string>
+    <string name="hint">Write to reply...</string>
+    <string name="reply">reply</string>
+
+    <string name="icon_star">&#xf005;</string>
+
+    <!-- Appointment Screen -->
+    <string name="appointment_label_tab">APPOINTMENT</string>
+    <string name="appointment_label_time">Time</string>
+    <string name="appointment_label_customer">Customer</string>
+    <string name="appointment_option_default">Options</string>
+    <string name="appointment_option_confirm">Confirm</string>
+    <string name="appointment_option_reject">Reject</string>
+    <string name="appointment_option_confirm_appoint">Confirm Appointment</string>
+    <string name="appointment_option_reject_appoint">Reject Appointment</string>
+    <string name="appointment_label_follow">Appointment Follow-up</string>
+    <string name="appointment_label_end_case">End Case</string>
+    <string name="appointment_label_date">Date</string>
+    <string name="appointment_label_case_id">Case ID</string>
+    <string name="appointment_hint_select_date">Select Date</string>
+    <string name="appointment_hint_select_time">Select Time</string>
+    <string name="appointment_label_description">Description</string>
+    <string name="appointment_hint_description">Service Description</string>
+    <string name="appointment_label_upload">Upload</string>
+    <string name="appointment_label_attachment">Attachment</string>
+    <string name="appointment_label_follow_up">Appointment Follow Up</string>
+    <string name="appointment_label_start_time">Start Time</string>
+    <string name="appointment_label_end_time">End Time</string>
+    <string name="appointment_button_cancel">Cancel</string>
+    <string name="appointment_button_send">Send Appointment</string>
+    <string name="appointment_label_complete">Appointment Completed</string>
+    <string name="appointment_label_completed">Completed</string>
+    <string name="appointment_label_type">Type of Appointment</string>
+    <string name="copy_right">\@ 2018 Etiqua. All Right Reserved</string>
+    <string name="appointment_label_reason">Reason</string>
+    <string name="appointment_hint_reason_reject">Please input reason for rejection.</string>
+    <string name="appointment_hint_follow_up_description">Please input follow-up description.</string>
+
+    <string name="monday">Mon</string>
+
+    <string name="tuesday">Tue</string>
+
+    <string name="wednesday">Wed</string>
+
+    <string name="thursday">Thu</string>
+
+    <string name="friday">Fri</string>
+
+    <string name="saturday">Sat</string>
+
+    <string name="sunday">Sun</string>
+
+</resources>
